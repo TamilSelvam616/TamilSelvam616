@@ -18,7 +18,7 @@
 Python • JavaScript • HTML • CSS  
 
 **Tools & Libraries:**  
-VS Code • Git & GitHub • Tailwind • Bootstrap  
+VS Code • Git & GitHub • Anaconda  
 
 **Currently Learning:**  
 Machine Learning • Advanced Web Development  
